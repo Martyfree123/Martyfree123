@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martyfree123
 - 👀 I’m interested in 3D Printing, Homelab, EV's and a bunch of other nerdy stuff
-- 🌱 I’m currently learning Klipper/Moonraker configuration
+- 🌱 I’m currently learning Swift/SwiftUI
 - 💞️ I’m looking to collaborate on anything you'd like!
 - 📫 You can rach me on Discord, Martyfree123#3118
 
